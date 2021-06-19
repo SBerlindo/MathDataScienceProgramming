@@ -12,25 +12,25 @@ Please read the [course overview](../)
 1. Fork this repository already 
    https://github.com/gkappler/MathDataScienceProgramming/fork
    (adapt bio and train editing in GitHub with copy & pasting your previous homeworks)
-   *delete this line for your homework*.
-   *put together your own homework notes delete this line for your homework*.
+   
+   
 
 2. Pooh proof
    - What type of proof does Piglet point out?
-     *write this line for your homework*.
+     The type of proof piglet point out are : Not seeing the hole ,wops he is trapped.
    - What axioms does Pooh assume for his proof that poor piglet might have doubts about?
-    
+    Pooh assume to help and builds a heffalump trap: a big hole.
 ### Your learning notes of the week:
 #### What was easy to understand? 
-*Write a topic 
-Why?
+For starting the definition of mathematical and these arguments,The type of proof which easy for me. 
 
 #### What was hard to understand? 
+The book entirely was hard to understand,because i didn't take my time to read all pages.
 
-Why?
 
 
 #### What do you need to recapitulate?
+I don't need anything to recapitulate i should take my time to read again.
 
 
 
