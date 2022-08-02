@@ -1,5 +1,25 @@
-* Abstract: Mathematics, Data Science, and Programming
-# are disciplines for
+                 AVJC
+ASSOCIATION DES VISIONNAIRES DE JESUS CHRIST.   
+            ACTE CONSTITUTIF
+Nous Jean Christal BAPTIST,Jean Berlin SINÉLUS,Odanise LINMÉ,Vester CESAIRE,Marie Lorvelie LYNCE,Peter JN MICHEL,Yannick JN LOUIS,
+Pierre Bertrand SINÉLUS,Manès DERILIEN,réunis à pétion Ville le 1er Janvier 2015. En vue de fonder une association et de fait avons
+la site association avec pour objectif de travailler et améliorer les conditions de vie de la population des sections communales du 
+Pays spécialement les enfants démunies et les personnes agées.
+
+Fait à Pétion Ville le 1er Janvier 2015 à 4hpm
+Nom.                     Prénom.                       NIF/CIN.                           Signature    
+Baptiste.                Jean Christal.                
+Sinélus.                 Jean Berlin.              
+Linmé.                   Odanise
+Vester                    Césaire
+Lyncé.                    Marie Lorvelie
+Jn Michel.                Peter
+Jn Louis.                 Yannick
+Sinélus.                  Pierre Bertrand
+Dérilien.                 Manès
+
+
+
 # 1. provably correct statements
 # 2. making sense of observations, and 
 # 3. controlling computer and machines.
